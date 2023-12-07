@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    Develop notes app (Web application) with following featues:
 
-## Available Scripts
+## Objective
 
-In the project directory, you can run:
+    Example : Google Keep Notes app.
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    List the primary technologies, languages required for the Assignment
+    Frontend- React JS(LocalStorage)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Completion Instructions
 
-### `npm test`
+### Functionality
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Must Have
 
-### `npm run build`
+    List the critical features or tasks mentioned in the Assignment
+    
+    1. Multi user login 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+     -   Multiple users should be able to login.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    2. Notes - create,edit and delete option
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+      -  There should be options to create, edit and delete notes.
 
-### `npm run eject`
+    3.Folders - Option to create folders and add notes to it.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+       - Theres should be option to create folders and add notes to it.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### Nice to Have
+    
+    -forget password
+    -use github repo
+    -pin notes
+    -add foler or file button
+    -search notes
+    -list views or grid view
+    -add labels
+    -add backgroud color
+    
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Guidelines to develop a project
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Must Have
+    
+    
+    -register login page
+    -multi user loging
+    
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    -** Use localstorage as database storage for storing notes content and user login details.
 
-### Code Splitting
+#### Nice to Have
+    
+    
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    
 
-### Analyzing the Bundle Size
+### Submission Instructions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### Must Have
 
-### Making a Progressive Web App
+    List the Instructions to follow while submitting the project mentioned in the Assignment, if any
+    
+    
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### Nice to Have
 
-### Advanced Configuration
+    List the suggested instructions to follow while submitting the project mentioned in the Assignment, if any
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Resources
 
-### Deployment
+### Design files
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+    List the references of design files required for the Assignment
 
-### `npm run build` fails to minify
+### APIs
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    List the APIs, providing any relevant endpoints, documentation links, or access keys, required for the Assignment if any
+
+### Third-party packages
+
+    List the Third-party packages required for the Assignment, if any
+    -material icons
+    -
